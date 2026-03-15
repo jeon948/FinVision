@@ -3,7 +3,7 @@
 ### VIDEO LINK 
 https://drive.google.com/file/d/1FSZwBoJMV0Vjoop6DoiaKfPnZM2DnIes/view?usp=sharing
 
-##GIT HUB LINK 
+## GIT HUB LINK 
 https://github.com/jeon948/FinVision.git
 
 ## Overview
