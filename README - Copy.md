@@ -1,7 +1,7 @@
 # FinVision – Goal-Based Financial Planning Assistant
 
 ### VIDEO LINK 
-https://drive.google.com/file/d/1FSZwBoJMV0Vjoop6DoiaKfPnZM2DnIes/view?usp=sharing
+https://drive.google.com/file/d/1RlufljiTatea0lB4MyGUajB4wFdo7ax1/view?usp=sharing
 
 ## GIT HUB LINK 
 https://github.com/jeon948/FinVision.git
@@ -28,7 +28,7 @@ npm run dev
 Open in browser:
 
 http://localhost:3000
-6️ . If You Made Changes and Want to Push to GitHub
+
 
 
 ## Overview
