@@ -8,13 +8,21 @@ https://github.com/jeon948/FinVision.git
 
 ## Steps to Run the Project
 1️ .Clone the Repository
+
 git clone https://github.com/YOUR_USERNAME/FinVision.git
+
 2️ . Go Inside the Project Folder
+
 cd FinVision
+
 3️ . Install All Dependencies
+
 npm install
+
 4️ . Run the Next.js Project
+
 npm run dev
+
 5️ . Open the Application
 
 Open in browser:
