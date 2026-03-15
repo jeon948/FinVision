@@ -6,6 +6,23 @@ https://drive.google.com/file/d/1FSZwBoJMV0Vjoop6DoiaKfPnZM2DnIes/view?usp=shari
 ## GIT HUB LINK 
 https://github.com/jeon948/FinVision.git
 
+## Steps to Run the Project
+1️ .Clone the Repository
+git clone https://github.com/YOUR_USERNAME/FinVision.git
+2️ . Go Inside the Project Folder
+cd FinVision
+3️ . Install All Dependencies
+npm install
+4️ . Run the Next.js Project
+npm run dev
+5️ . Open the Application
+
+Open in browser:
+
+http://localhost:3000
+6️ . If You Made Changes and Want to Push to GitHub
+
+
 ## Overview
 
 FinVision is a web-based financial planning tool designed to help users understand and plan their financial goals effectively. The platform allows users to estimate future goal costs, calculate the required monthly investments using SIP (Systematic Investment Plan), visualize investment growth over time, and generate professional financial reports.
