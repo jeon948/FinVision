@@ -3,6 +3,9 @@
 ### VIDEO LINK 
 https://drive.google.com/file/d/1FSZwBoJMV0Vjoop6DoiaKfPnZM2DnIes/view?usp=sharing
 
+##GIT HUB LINK 
+https://github.com/jeon948/FinVision.git
+
 ## Overview
 
 FinVision is a web-based financial planning tool designed to help users understand and plan their financial goals effectively. The platform allows users to estimate future goal costs, calculate the required monthly investments using SIP (Systematic Investment Plan), visualize investment growth over time, and generate professional financial reports.
